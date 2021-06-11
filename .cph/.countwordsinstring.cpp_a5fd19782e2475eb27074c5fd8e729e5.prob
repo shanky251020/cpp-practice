@@ -1,1 +1,0 @@
-{"name":"Local: countwordsinstring","url":"/home/shashank/cpp_practice/countwordsinstring.cpp","tests":[{"id":1623427865158,"input":"world is hello","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shashank/cpp_practice/countwordsinstring.cpp","group":"local","local":true}
